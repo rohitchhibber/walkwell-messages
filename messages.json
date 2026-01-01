@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "messages": [
+    {
+      "id": "welcome_001",
+      "title": "Welcome to WalkWell",
+      "body": "Just walk. Consistently.",
+      "minAppVersion": "1.0"
+    }
+  ]
+}
