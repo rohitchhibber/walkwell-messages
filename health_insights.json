@@ -4,14 +4,38 @@
     {
       "id": "walk_after_meals_001",
       "title": "Walking after meals helps blood sugar",
-      "summary": "A short walk after eating can reduce glucose spikes.",
+      "summary": "A short walk after eating can reduce blood sugar spikes and support digestion.",
       "url": "https://www.health.harvard.edu/staying-healthy/walking-after-meals"
     },
     {
       "id": "10_min_rule_001",
-      "title": "The 10-minute rule",
-      "summary": "Even brief walks done consistently improve health.",
-      "url": "https://www.nhs.uk/live-well/exercise/"
+      "title": "The 10-minute walking rule",
+      "summary": "Even short walks done consistently can improve health and mood.",
+      "url": "https://www.nhs.uk/live-well/exercise/walking-for-health/"
+    },
+    {
+      "id": "walking_mental_health_001",
+      "title": "How walking improves mental wellbeing",
+      "summary": "Walking regularly can reduce stress, anxiety, and improve sleep quality.",
+      "url": "https://www.mind.org.uk/information-support/tips-for-everyday-living/physical-activity-and-mental-health/"
+    },
+    {
+      "id": "steps_not_magic_10000_001",
+      "title": "Do you really need 10,000 steps?",
+      "summary": "Health benefits start well below 10,000 steps — consistency matters more.",
+      "url": "https://www.health.harvard.edu/blog/10000-steps-a-day-or-fewer-2019071117305"
+    },
+    {
+      "id": "walking_longevity_001",
+      "title": "Walking and longevity",
+      "summary": "Regular walking is linked to longer life and lower risk of chronic disease.",
+      "url": "https://www.cdc.gov/physicalactivity/basics/pa-health/index.htm"
+    },
+    {
+      "id": "daily_walk_habit_001",
+      "title": "Why daily walking is easier to sustain",
+      "summary": "Walking is one of the most sustainable habits because it fits into daily life.",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/walking/art-20046261"
     }
   ]
 }
